@@ -1,5 +1,5 @@
 # QR-Code-Generator
-QR Code Generator program in Python Programming Language.
+QR Code Generator program in Python Programming Language. 
 
 #### If found helpful, drop a star :)
 
